@@ -144,6 +144,10 @@ nav a[aria-current="page"] {
   box-shadow: var(--shadow);
 }
 
+.article-card + .article-card {
+  margin-top: 30px;
+}
+
 .article-image {
   min-height: 410px;
   background: var(--green-soft);
