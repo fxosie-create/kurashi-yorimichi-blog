@@ -3,6 +3,10 @@
 「暮らしのよりみち帖」の静的ブログです。HTMLとCSSだけで動作するため、
 無料の静的サイトサービスへそのまま公開できます。
 
+## 公開URL
+
+https://kurashi-yorimichi-blog.vercel.app
+
 ## ローカル確認
 
 Windowsで `serve.bat` をダブルクリックするか、PowerShellで次を実行します。
@@ -36,7 +40,12 @@ rakuten-affiliate-blog/
 - アフィリエイトリンクが正しく開く
 - 楽天市場の商品画像はアフィリエイトリンクと一緒に表示する
 
-## 公開方法
+## 更新方法
 
-GitHub Pages、Cloudflare Pagesなどの静的サイトサービスへ公開できます。
-公開URLが決まったら、楽天アフィリエイトのサイト情報へ登録してください。
+ファイルを更新したら、このフォルダーで次を実行します。
+
+```bat
+vercel deploy --prod
+```
+
+公開URLを楽天アフィリエイトのサイト情報へ登録してください。
