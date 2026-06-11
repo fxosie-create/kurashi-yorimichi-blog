@@ -7,6 +7,10 @@
 
 https://kurashi-yorimichi-blog.vercel.app
 
+## GitHub
+
+https://github.com/fxosie-create/kurashi-yorimichi-blog
+
 ## ローカル確認
 
 Windowsで `serve.bat` をダブルクリックするか、PowerShellで次を実行します。
@@ -48,4 +52,5 @@ rakuten-affiliate-blog/
 vercel deploy --prod
 ```
 
+GitHubの`main`ブランチへpushした場合も、Vercelが自動で本番公開します。
 公開URLを楽天アフィリエイトのサイト情報へ登録してください。
