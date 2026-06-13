@@ -16,7 +16,7 @@ https://github.com/fxosie-create/kurashi-yorimichi-blog
 Windowsで `serve.bat` をダブルクリックするか、PowerShellで次を実行します。
 
 ```bat
-cd C:\Users\osie6\OneDrive\ドキュメント\楽天アフィリエイト\rakuten-affiliate-blog
+cd E:\Projects\Rakuten\rakuten-affiliate-blog
 serve.bat
 ```
 
