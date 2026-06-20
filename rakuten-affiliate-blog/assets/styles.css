@@ -10,6 +10,7 @@
   --line: #dce4de;
   --shadow: 0 18px 55px rgba(36, 49, 43, 0.09);
   --radius: 24px;
+  --card-radius: 8px;
 }
 
 * {
@@ -23,9 +24,7 @@ html {
 body {
   margin: 0;
   color: var(--ink);
-  background:
-    radial-gradient(circle at 85% 5%, rgba(198, 141, 58, 0.10), transparent 26rem),
-    var(--paper);
+  background: linear-gradient(180deg, var(--paper) 0%, #f8f4ea 100%);
   font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif;
   line-height: 1.9;
 }
@@ -41,6 +40,10 @@ img {
   max-width: 100%;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 .site-header {
   position: sticky;
   top: 0;
@@ -52,7 +55,7 @@ img {
 
 .header-inner {
   width: min(1120px, calc(100% - 40px));
-  min-height: 76px;
+  min-height: 64px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -85,27 +88,27 @@ nav a[aria-current="page"] {
 }
 
 .hero {
-  padding: 110px 20px 90px;
+  padding: 30px 20px 18px;
 }
 
 .hero-inner {
-  width: min(980px, 100%);
+  width: min(1120px, 100%);
   margin: 0 auto;
 }
 
 .hero h1 {
   max-width: 900px;
-  margin: 12px 0 24px;
-  font-size: clamp(2.4rem, 6vw, 5.6rem);
+  margin: 6px 0 8px;
+  font-size: clamp(1.55rem, 3vw, 2.35rem);
   font-weight: 500;
-  line-height: 1.25;
-  letter-spacing: 0.015em;
+  line-height: 1.32;
 }
 
 .hero p:last-child {
-  max-width: 690px;
+  max-width: 620px;
+  margin: 0;
   color: var(--muted);
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 
 .eyebrow {
@@ -118,44 +121,254 @@ nav a[aria-current="page"] {
 }
 
 .content-section {
-  width: min(1060px, calc(100% - 40px));
+  width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
-  padding: 20px 0 100px;
+  padding: 10px 0 82px;
+}
+
+.category-section {
+  padding-bottom: 28px;
+}
+
+.discovery-section {
+  padding-top: 0;
+  display: grid;
+  grid-template-columns: minmax(260px, 0.92fr) minmax(0, 1.6fr);
+  gap: 24px;
+  align-items: start;
 }
 
 .section-heading {
-  margin-bottom: 30px;
+  margin-bottom: 14px;
 }
 
 .section-heading h2,
-.note-panel h2 {
+.note-panel h2,
+.site-stats-panel h2 {
   margin: 4px 0 0;
-  font-size: 2rem;
+  font-size: 1.35rem;
   font-weight: 500;
 }
 
-.article-card {
-  display: grid;
-  grid-template-columns: minmax(280px, 0.9fr) minmax(320px, 1.1fr);
-  overflow: hidden;
+.category-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.category-links a {
+  min-height: 40px;
+  padding: 8px 15px;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(56, 106, 82, 0.22);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.category-links a:hover,
+.category-links a:focus-visible,
+.category-links a[aria-current="page"] {
+  border-color: rgba(56, 106, 82, 0.55);
+  background: var(--green-soft);
+}
+
+.search-panel,
+.popular-ranking {
+  min-width: 0;
+  padding: 18px;
   border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: var(--surface);
+  border-radius: var(--card-radius);
+  background: #fffdf7;
   box-shadow: var(--shadow);
 }
 
+.search-panel {
+  position: sticky;
+  top: 84px;
+}
+
+.search-panel label {
+  display: block;
+  margin-bottom: 9px;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.search-panel input {
+  width: 100%;
+  min-height: 48px;
+  padding: 11px 13px;
+  border: 1px solid rgba(56, 106, 82, 0.24);
+  border-radius: var(--card-radius);
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+.search-panel input:focus {
+  outline: 2px solid rgba(56, 106, 82, 0.22);
+  outline-offset: 2px;
+}
+
+.search-results-status,
+.search-empty {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.82rem;
+}
+
+.popular-ranking .section-heading {
+  margin-bottom: 12px;
+}
+
+.ranking-list {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.ranking-card {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  display: flex;
+  border: 1px solid rgba(220, 228, 222, 0.95);
+  border-radius: var(--card-radius);
+  background: #fff;
+  color: var(--ink);
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.ranking-card:hover,
+.ranking-card:focus-visible {
+  border-color: rgba(56, 106, 82, 0.45);
+}
+
+.ranking-number {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 1;
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--gold);
+  color: #fff;
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.ranking-image {
+  height: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid var(--line);
+  background: #fbfaf5;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.ranking-image img {
+  width: 100%;
+  height: 100%;
+  padding: 9px;
+  object-fit: contain;
+}
+
+.ranking-body {
+  min-width: 0;
+  padding: 10px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.ranking-meta,
+.ranking-price {
+  color: var(--muted);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.ranking-title {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 0.82rem;
+  line-height: 1.55;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.ranking-price {
+  margin-top: auto;
+  color: var(--green-dark);
+}
+
+.article-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.article-card {
+  display: flex;
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: var(--card-radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  flex-direction: column;
+}
+
 .article-card + .article-card {
-  margin-top: 30px;
+  margin-top: 0;
 }
 
 .article-image {
-  min-height: 410px;
+  height: 160px;
   background: var(--green-soft);
+}
+
+.article-product-thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid var(--line);
+  background: #fbfaf5;
+  text-decoration: none;
+}
+
+.article-product-thumb img {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  object-fit: contain;
 }
 
 .product-visual {
   position: relative;
-  padding: 52px;
+  padding: 22px;
   display: flex;
   overflow: hidden;
   align-items: flex-start;
@@ -170,10 +383,10 @@ nav a[aria-current="page"] {
 
 .product-visual::after {
   position: absolute;
-  right: -45px;
-  bottom: -65px;
-  width: 230px;
-  height: 230px;
+  right: -36px;
+  bottom: -52px;
+  width: 150px;
+  height: 150px;
   border: 1px solid rgba(255, 255, 255, 0.22);
   border-radius: 50%;
   content: "";
@@ -184,31 +397,40 @@ nav a[aria-current="page"] {
   position: relative;
   z-index: 1;
   font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
-  font-size: 0.82rem;
+  font-size: 0.7rem;
   letter-spacing: 0.12em;
 }
 
 .product-visual strong {
   position: relative;
   z-index: 1;
-  font-size: clamp(2.4rem, 5vw, 4.5rem);
+  font-size: clamp(1.55rem, 2.5vw, 2.1rem);
   font-weight: 500;
   line-height: 1.15;
 }
 
 .product-visual-note {
-  margin-top: 28px;
+  margin-top: 14px;
   opacity: 0.82;
 }
 
 .article-card-body {
-  padding: clamp(34px, 6vw, 68px);
+  display: flex;
+  min-width: 0;
+  padding: 13px 14px 15px;
+  flex: 1;
+  flex-direction: column;
 }
 
 .article-card-body h2 {
-  margin: 16px 0;
-  font-size: clamp(1.55rem, 3vw, 2.25rem);
+  margin: 10px 0 8px;
+  display: -webkit-box;
+  overflow: hidden;
+  color: var(--ink);
+  font-size: 0.98rem;
   line-height: 1.55;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 
 .article-card-body h2 a {
@@ -219,17 +441,28 @@ nav a[aria-current="page"] {
   color: var(--muted);
 }
 
+.article-card-body > p:not(.article-meta) {
+  margin: 0 0 12px;
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
 .article-meta {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
+  margin: 0;
   color: var(--muted);
   font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
-  font-size: 0.82rem;
+  font-size: 0.75rem;
 }
 
 .article-meta span {
-  padding: 3px 11px;
+  padding: 2px 9px;
   border-radius: 999px;
   background: var(--green-soft);
   color: var(--green-dark);
@@ -242,9 +475,24 @@ nav a[aria-current="page"] {
   font-weight: 700;
 }
 
+.article-card .text-link {
+  min-height: 34px;
+  margin-top: auto;
+  padding: 7px 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  border: 1px solid rgba(56, 106, 82, 0.28);
+  border-radius: 999px;
+  background: #fff;
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
 .note-panel {
   width: min(980px, calc(100% - 40px));
-  margin: 0 auto 100px;
+  margin: 0 auto 32px;
   padding: clamp(32px, 6vw, 64px);
   border-left: 5px solid var(--gold);
   background: #f4efe3;
@@ -255,83 +503,238 @@ nav a[aria-current="page"] {
   margin-bottom: 0;
 }
 
+.site-stats-panel {
+  width: min(980px, calc(100% - 40px));
+  margin: 0 auto 100px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--green);
+  border-radius: var(--card-radius);
+  background: #fffdf7;
+  box-shadow: var(--shadow);
+}
+
+.site-stats-summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 18px 0 14px;
+}
+
+.site-stats-summary div,
+.site-stat-category {
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid rgba(220, 228, 222, 0.95);
+  border-radius: var(--card-radius);
+  background: #fff;
+}
+
+.site-stats-summary span,
+.site-stat-category span {
+  color: var(--muted);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.site-stats-summary strong,
+.site-stat-category strong {
+  display: inline-block;
+  margin: 0 4px;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 1.32rem;
+  line-height: 1.2;
+}
+
+.site-stats-categories {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.site-stat-category {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 2px;
+  color: inherit;
+  text-align: center;
+  text-decoration: none;
+}
+
+.site-stat-category:hover,
+.site-stat-category:focus-visible {
+  border-color: rgba(56, 106, 82, 0.45);
+  background: var(--green-soft);
+}
+
 .article-layout,
 .page-layout {
-  width: min(900px, calc(100% - 40px));
+  width: min(1040px, calc(100% - 40px));
   margin: 0 auto;
-  padding: 70px 0 110px;
+  padding: 28px 0 86px;
 }
 
 .article,
 .page-card {
-  padding: clamp(28px, 6vw, 72px);
+  padding: clamp(20px, 4vw, 34px);
   border: 1px solid var(--line);
-  border-radius: var(--radius);
+  border-radius: var(--card-radius);
   background: var(--surface);
   box-shadow: var(--shadow);
 }
 
 .ad-disclosure {
-  margin: 0 0 34px;
-  padding: 12px 16px;
-  border-radius: 10px;
+  margin: 0 0 14px;
+  padding: 8px 12px;
+  border-radius: 8px;
   background: #f4efe3;
   color: #5f4d33;
   font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
+}
+
+.breadcrumb {
+  margin: 0 0 14px;
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.78rem;
+}
+
+.breadcrumb ol {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  color: var(--muted);
+}
+
+.breadcrumb li {
+  min-width: 0;
+}
+
+.breadcrumb li + li::before {
+  margin-right: 6px;
+  color: rgba(56, 106, 82, 0.5);
+  content: ">";
+}
+
+.breadcrumb a {
+  color: var(--green-dark);
+  text-decoration: none;
+}
+
+.breadcrumb [aria-current="page"] {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.category-page-header {
+  padding-top: 28px;
+  padding-bottom: 34px;
+}
+
+.category-page-header h1 {
+  margin: 6px 0 8px;
+  font-size: clamp(1.35rem, 2.5vw, 1.9rem);
+  font-weight: 500;
+  line-height: 1.42;
+}
+
+.category-page-header > p:not(.eyebrow) {
+  max-width: 720px;
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .article-header h1,
 .page-card h1 {
-  margin: 18px 0 24px;
-  font-size: clamp(2rem, 5vw, 3.45rem);
+  margin: 8px 0 8px;
+  font-size: clamp(1.22rem, 2.2vw, 1.65rem);
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.48;
 }
 
 .lead {
+  margin: 0;
   color: var(--muted);
-  font-size: 1.08rem;
+  font-size: 0.9rem;
+  line-height: 1.72;
 }
 
 .article-figure {
-  margin: 50px 0;
+  margin: 0;
   text-align: center;
 }
 
-.article-product-visual {
-  width: min(620px, 100%);
-  min-height: 420px;
+.product-summary-card {
+  margin: 22px 0 34px;
+  padding: 18px;
+  display: grid;
+  grid-template-columns: minmax(260px, 430px) 1fr;
+  gap: 24px;
+  align-items: start;
+  border: 1px solid var(--line);
+  border-radius: var(--card-radius);
+  background: #fffdf7;
+}
+
+.article-product-image-link {
+  width: min(430px, 100%);
+  min-height: 240px;
   margin: 0 auto;
-  padding: 55px;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(220, 228, 222, 0.9);
+  border-radius: var(--card-radius);
+  background: #fbfaf5;
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.article-product-image-link:hover,
+.article-product-image-link:focus-visible {
+  border-color: rgba(56, 106, 82, 0.55);
+  box-shadow: 0 12px 32px rgba(36, 49, 43, 0.12);
+  transform: translateY(-1px);
+}
+
+.article-product-image {
+  width: 100%;
+  max-height: 330px;
+  padding: 12px;
+  object-fit: contain;
+}
+
+.article-product-image-link--placeholder {
+  min-height: 260px;
+  padding: 28px;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: flex-end;
-  border-radius: 18px;
+  justify-content: center;
   color: #fff;
   background:
     radial-gradient(circle at 78% 22%, rgba(255, 255, 255, 0.16), transparent 12rem),
     linear-gradient(145deg, #2d5845, #1f3c31);
   text-align: left;
-  text-decoration: none;
 }
 
-.article-product-visual span,
-.article-product-visual small {
+.article-product-image-link--placeholder span {
   font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
   letter-spacing: 0.12em;
 }
 
-.article-product-visual strong {
+.article-product-image-link--placeholder strong {
   margin: 12px 0 20px;
-  font-size: clamp(2.8rem, 8vw, 5.4rem);
+  font-size: clamp(2rem, 5vw, 3rem);
   font-weight: 500;
   line-height: 1.08;
-}
-
-.article-product-visual small {
-  opacity: 0.8;
 }
 
 .article-figure figcaption {
@@ -341,17 +744,139 @@ nav a[aria-current="page"] {
   font-size: 0.78rem;
 }
 
-.article section,
+.product-summary-info {
+  min-width: 0;
+}
+
+.product-badges {
+  margin: 0 0 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.product-badges span {
+  padding: 4px 10px;
+  border: 1px solid rgba(56, 106, 82, 0.16);
+  border-radius: 999px;
+  background: var(--green-soft);
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.74rem;
+  font-weight: 700;
+}
+
+.product-summary-info dl {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+.product-summary-info dl div {
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(56, 106, 82, 0.12);
+}
+
+.product-summary-info dt {
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-weight: 700;
+}
+
+.product-summary-info dd {
+  min-width: 0;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.review-row dd {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px;
+}
+
+.review-rating {
+  color: #b05b24;
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 800;
+}
+
+.review-count {
+  color: var(--ink);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-weight: 700;
+}
+
+.product-summary-info .button {
+  margin-top: 20px;
+  background: var(--green-dark);
+  color: #fff;
+}
+
+.product-primary-button {
+  width: 100%;
+  min-height: 60px;
+  padding-inline: 24px;
+  font-size: 1rem;
+}
+
+.product-summary-info .small-note {
+  margin: 14px 0 0;
+}
+
+.article section:not(.product-summary-card),
 .page-card h2 {
-  margin-top: 54px;
+  margin-top: 34px;
+}
+
+.article-body-section {
+  padding: 22px 24px;
+  border: 1px solid rgba(220, 228, 222, 0.95);
+  border-left: 4px solid rgba(56, 106, 82, 0.62);
+  border-radius: var(--card-radius);
+  background: #fbfaf5;
+}
+
+.article-body-section + .article-body-section {
+  margin-top: 18px;
+}
+
+.article-body-section--summary {
+  border-left-color: var(--gold);
+  background: #fff9ee;
 }
 
 .article h2,
 .page-card h2 {
   padding-bottom: 10px;
   border-bottom: 1px solid var(--line);
-  font-size: 1.65rem;
+  font-size: 1.28rem;
   font-weight: 600;
+}
+
+.article-body-section h2 {
+  margin: 0 0 12px;
+  padding-bottom: 8px;
+  color: var(--green-dark);
+  font-size: 1.08rem;
+  line-height: 1.45;
+}
+
+.article-body-section--summary h2 {
+  color: #8a6329;
+}
+
+.article-body-section p {
+  margin: 0;
+}
+
+.article-body-section p + ul,
+.article-body-section ul + p {
+  margin-top: 14px;
 }
 
 .article h3 {
@@ -360,8 +885,8 @@ nav a[aria-current="page"] {
 }
 
 .fact-box {
-  padding: 28px;
-  border-radius: 18px;
+  padding: 20px;
+  border-radius: var(--card-radius);
   background: var(--green-soft);
 }
 
@@ -395,6 +920,111 @@ nav a[aria-current="page"] {
 .article-caution {
   color: var(--muted);
   font-size: 0.86rem;
+}
+
+.article-bottom-cta {
+  margin-top: 24px;
+  padding: 20px 22px;
+  border: 1px solid rgba(198, 141, 58, 0.32);
+  border-radius: var(--card-radius);
+  background: #fff8e9;
+  text-align: center;
+}
+
+.article-bottom-cta p {
+  max-width: 660px;
+  margin: 0 auto 14px;
+  color: #5f4d33;
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.article-bottom-button {
+  min-width: min(280px, 100%);
+  justify-content: center;
+  background: var(--green-dark);
+  color: #fff;
+}
+
+.related-products {
+  margin-top: 34px;
+  padding-top: 4px;
+}
+
+.related-products h2 {
+  margin: 0 0 16px;
+  padding-bottom: 8px;
+  font-size: 1.08rem;
+}
+
+.related-product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.related-product-card {
+  min-width: 0;
+  overflow: hidden;
+  display: flex;
+  border: 1px solid var(--line);
+  border-radius: var(--card-radius);
+  background: #fffdf7;
+  color: var(--ink);
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.related-product-card:hover,
+.related-product-card:focus-visible {
+  border-color: rgba(56, 106, 82, 0.45);
+}
+
+.related-product-image {
+  height: 112px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid var(--line);
+  background: #fbfaf5;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.related-product-image img {
+  width: 100%;
+  height: 100%;
+  padding: 8px;
+  object-fit: contain;
+}
+
+.related-product-title {
+  min-height: 4.8em;
+  padding: 10px 11px 4px;
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 0.86rem;
+  line-height: 1.6;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.related-product-meta {
+  padding: 9px 11px 0;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.related-product-link {
+  margin: auto 11px 12px;
+  color: var(--green-dark);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
 }
 
 .check-list {
@@ -457,6 +1087,15 @@ nav a[aria-current="page"] {
   text-decoration: none;
 }
 
+.product-summary-info .product-primary-button {
+  min-height: 62px;
+  font-size: 1rem;
+}
+
+.article-bottom-button {
+  min-height: 56px;
+}
+
 .button.secondary {
   border: 1px solid var(--green);
   background: transparent;
@@ -471,8 +1110,16 @@ nav a[aria-current="page"] {
 }
 
 .back-link {
-  display: inline-block;
+  min-height: 46px;
   margin-top: 30px;
+  padding: 10px 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(56, 106, 82, 0.28);
+  border-radius: 999px;
+  background: #fff;
+  text-decoration: none;
 }
 
 .legal h2 {
@@ -507,6 +1154,28 @@ nav a[aria-current="page"] {
   align-items: center;
 }
 
+@media (max-width: 980px) {
+  .discovery-section {
+    grid-template-columns: 1fr;
+  }
+
+  .search-panel {
+    position: static;
+  }
+
+  .ranking-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .article-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .site-stats-categories {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: 760px) {
   .header-inner {
     padding: 16px 0;
@@ -522,21 +1191,176 @@ nav a[aria-current="page"] {
   }
 
   .hero {
-    padding-top: 70px;
+    padding: 26px 20px 18px;
+  }
+
+  .hero h1 {
+    font-size: 1.65rem;
+  }
+
+  .content-section {
+    width: min(620px, calc(100% - 28px));
+    padding-bottom: 58px;
+  }
+
+  .note-panel,
+  .site-stats-panel {
+    width: min(620px, calc(100% - 28px));
+  }
+
+  .category-section {
+    padding-bottom: 24px;
+  }
+
+  .category-links {
+    gap: 8px;
+  }
+
+  .category-links a {
+    min-height: 38px;
+    padding-inline: 12px;
+    font-size: 0.8rem;
+  }
+
+  .discovery-section {
+    gap: 16px;
+  }
+
+  .search-panel,
+  .popular-ranking {
+    padding: 14px;
+  }
+
+  .site-stats-panel {
+    padding: 18px;
+  }
+
+  .site-stats-summary,
+  .site-stats-categories {
+    grid-template-columns: 1fr;
+  }
+
+  .ranking-list {
+    grid-template-columns: 1fr;
+  }
+
+  .ranking-card {
+    min-height: 108px;
+    flex-direction: row;
+  }
+
+  .ranking-image {
+    width: 108px;
+    height: auto;
+    min-height: 108px;
+    flex: 0 0 108px;
+    border-right: 1px solid var(--line);
+    border-bottom: 0;
+  }
+
+  .ranking-title {
+    -webkit-line-clamp: 2;
+  }
+
+  .category-page-header {
+    padding-top: 22px;
+    padding-bottom: 30px;
+  }
+
+  .article-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
   }
 
   .article-card {
     grid-template-columns: 1fr;
   }
 
+  .article-layout,
+  .page-layout {
+    width: min(620px, calc(100% - 28px));
+    padding: 22px 0 64px;
+  }
+
+  .article,
+  .page-card {
+    padding: 18px;
+  }
+
   .article-header h1,
   .page-card h1 {
-    font-size: 1.75rem;
-    line-height: 1.5;
+    font-size: 1.18rem;
+    line-height: 1.46;
   }
 
   .article-image {
-    min-height: 300px;
+    height: 190px;
+  }
+
+  .product-summary-card {
+    padding: 14px;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .article-product-image-link {
+    min-height: 168px;
+  }
+
+  .article-product-image {
+    max-height: 210px;
+  }
+
+  .product-summary-info dl div {
+    grid-template-columns: 76px 1fr;
+    gap: 10px;
+  }
+
+  .product-primary-button {
+    min-height: 62px;
+    font-size: 0.98rem;
+  }
+
+  .article-body-section {
+    padding: 17px 16px;
+  }
+
+  .article-body-section h2 {
+    font-size: 1rem;
+  }
+
+  .article-bottom-cta {
+    padding: 18px 16px;
+  }
+
+  .article-bottom-button {
+    width: 100%;
+  }
+
+  .related-product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .related-product-card {
+    flex-direction: row;
+  }
+
+  .related-product-image {
+    width: 104px;
+    height: auto;
+    min-height: 104px;
+    flex: 0 0 104px;
+    border-right: 1px solid var(--line);
+    border-bottom: 0;
+  }
+
+  .related-product-title {
+    min-height: 0;
+    padding-top: 9px;
+  }
+
+  .back-link {
+    width: 100%;
   }
 
   .fact-box dl div,
