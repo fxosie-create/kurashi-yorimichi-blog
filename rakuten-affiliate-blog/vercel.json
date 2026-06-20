@@ -1,5 +1,11 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "routes": [
+    {
+      "src": "/google309477eca05360ef\\.html",
+      "dest": "/google309477eca05360ef.html"
+    }
+  ]
 }
