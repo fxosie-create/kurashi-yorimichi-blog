@@ -1,0 +1,24 @@
+{
+  "name": "暮らしのよりみち帖",
+  "short_name": "よりみち帖",
+  "description": "楽天市場で見つけた暮らしの商品を、購入前に確認しやすくまとめる商品ブログです。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#1f4f3a",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
