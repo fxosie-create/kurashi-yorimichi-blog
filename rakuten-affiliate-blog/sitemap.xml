@@ -2,42 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/about.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/privacy.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/beauty.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/food.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/daily.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/baby.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/fashion.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-b8dca959d608.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-8bad7f712f7a.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-7f30fe9653a9.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-73b3d29f57d8.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-206b9d3abc7a.html</loc>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
