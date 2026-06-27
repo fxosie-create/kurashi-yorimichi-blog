@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T10:54:43+09:00",
+  "generated_at": "2026-06-27T11:14:03+09:00",
   "threshold": 0.9,
   "article_count": 51,
   "candidate_count": 7,
@@ -13,8 +13,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-oumi:10062788",
         "product_url": "https://item.rakuten.co.jp/umaimon-oumi/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-cdddf4100d15",
@@ -22,8 +22,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-gyoumupro:10018623",
         "product_url": "https://item.rakuten.co.jp/umaimon-gyoumupro/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     },
@@ -35,8 +35,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-oumi:10062788",
         "product_url": "https://item.rakuten.co.jp/umaimon-oumi/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-ae0bc31ad581",
@@ -44,8 +44,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-healthsalute:10021845",
         "product_url": "https://item.rakuten.co.jp/umaimon-healthsalute/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     },
@@ -57,8 +57,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-gyoumupro:10018623",
         "product_url": "https://item.rakuten.co.jp/umaimon-gyoumupro/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-ae0bc31ad581",
@@ -66,8 +66,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-healthsalute:10021845",
         "product_url": "https://item.rakuten.co.jp/umaimon-healthsalute/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     },
@@ -79,8 +79,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-oumi:10062788",
         "product_url": "https://item.rakuten.co.jp/umaimon-oumi/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-55a4da0d8579",
@@ -88,8 +88,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-oumi:10062789",
         "product_url": "https://item.rakuten.co.jp/umaimon-oumi/63745401-20",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     },
@@ -101,8 +101,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-gyoumupro:10018623",
         "product_url": "https://item.rakuten.co.jp/umaimon-gyoumupro/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-55a4da0d8579",
@@ -110,8 +110,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-oumi:10062789",
         "product_url": "https://item.rakuten.co.jp/umaimon-oumi/63745401-20",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     },
@@ -123,8 +123,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-healthsalute:10021845",
         "product_url": "https://item.rakuten.co.jp/umaimon-healthsalute/63745401-10",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-55a4da0d8579",
@@ -132,8 +132,8 @@
         "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
         "item_code": "umaimon-oumi:10062789",
         "product_url": "https://item.rakuten.co.jp/umaimon-oumi/63745401-20",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     },
@@ -145,8 +145,8 @@
         "normalized_item_name": "はまぐりだしラーメンはまぐりだしラーメンしおインスタント袋麺乾麺千葉県だし麺はまぐり出汁ラーメン塩ラーメン麺類ラーメン",
         "item_code": "hokkaido-gift-tanemi:10002394",
         "product_url": "https://item.rakuten.co.jp/hokkaido-gift-tanemi/hamaguri-dasi-raumen5",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "right": {
         "slug": "item-fd64a64e6881",
@@ -154,8 +154,8 @@
         "normalized_item_name": "はまぐりだしラーメンはまぐりだしラーメンしおインスタント袋麺乾麺千葉県だし麺はまぐり出汁ラーメン塩ラーメン麺類ラーメン",
         "item_code": "kitakuranohatake:10005159",
         "product_url": "https://item.rakuten.co.jp/kitakuranohatake/hamaguri-dasi-raumen2",
-        "category": "daily",
-        "category_label": "日用品"
+        "category": "food",
+        "category_label": "食品"
       },
       "action": "report_only"
     }

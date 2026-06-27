@@ -21,7 +21,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5n.iax44629.g00tqd5n.iax450c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000077%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "骨取り無塩の冷凍さば",
       "product_url": "https://item.rakuten.co.jp/yamagoiida/10000077",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/honetori-saba.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/honetori-saba.jpg",
+      "theme_signature": "item:yamagoiida:10000077"
     },
     {
       "item_code": "netbaby:10028506",
@@ -43,7 +44,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.iax44e89.g00pzd4n.iax4533b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "マミーポコパンツオムツドラえもん",
       "product_url": "https://item.rakuten.co.jp/netbaby/404272",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-0af6f9ad8cad.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-0af6f9ad8cad.jpg",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "brita:10000161",
@@ -65,7 +67,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsun.iax440d6.g00tbsun.iax45f73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "公式浄水器のブリタ交換用カートリッジマクストラプロピュアパフォーマンスセット",
       "product_url": "https://item.rakuten.co.jp/brita/maxtraplus-8",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-9be9c295a7bd.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-9be9c295a7bd.jpg",
+      "theme_signature": "item:brita:10000161"
     },
     {
       "item_code": "netbaby:10028658",
@@ -87,7 +90,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.iax44e89.g00pzd4n.iax4533b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404313%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "パンパースオムツさらさらケアパンツ",
       "product_url": "https://item.rakuten.co.jp/netbaby/404313",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-febae0d5bcb1.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-febae0d5bcb1.jpg",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "dainichi-corp:10000017",
@@ -109,7 +113,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r384n.iax44100.g00r384n.iax45163/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000017%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "サンサンスポンジセット全9色キッチンスポンジ",
       "product_url": "https://item.rakuten.co.jp/dainichi-corp/10000017",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-d0db1631931c.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-d0db1631931c.jpg",
+      "theme_signature": "item:dainichi-corp:10000017"
     },
     {
       "item_code": "kawasui:10000130",
@@ -131,7 +136,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvazn.iax44a4c.g00pvazn.iax45f11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkawasui%2F10000130%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "国産うなぎ蒲焼きセット",
       "product_url": "https://item.rakuten.co.jp/kawasui/10000130",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e7aa559159ae.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e7aa559159ae.jpg",
+      "theme_signature": "item:kawasui:10000130"
     },
     {
       "item_code": "kouragumi:10000216",
@@ -153,7 +159,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77tn.iax44c98.g00r77tn.iax45261/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201101%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "国産うなぎ蒲焼きギフトお試しセット",
       "product_url": "https://item.rakuten.co.jp/kouragumi/201101",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-bce8ccfb783e.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-bce8ccfb783e.jpg",
+      "theme_signature": "item:kouragumi:10000216"
     },
     {
       "item_code": "lifedrinkcompany:10000022",
@@ -175,7 +182,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkn4n.iax44c80.g00tkn4n.iax45694/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedrinkcompany%2Fzaosoda-500-48%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "炭酸水一部地域除く強炭酸炭酸無糖ozaso",
       "product_url": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-7e63c36c71af.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-7e63c36c71af.jpg",
+      "theme_signature": "theme:carbonated_water"
     },
     {
       "item_code": "sawaicoffee-tea:10001136",
@@ -197,7 +205,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00powbn.iax44d17.g00powbn.iax4595e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2Fac-sale-1960%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "コーヒーコーヒー豆コーヒー粉珈琲豆豆のままグルメ大賞9度受賞の1番選ばれるコーヒーセ",
       "product_url": "https://item.rakuten.co.jp/sawaicoffee-tea/ac-sale-1960",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-a315c08e31c2.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-a315c08e31c2.jpg",
+      "theme_signature": "theme:coffee"
     },
     {
       "item_code": "teamo:10001200",
@@ -219,7 +228,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ram0n.iax44341.g00ram0n.iax45e70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fteamo%2Fpure_clear_1%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "コンタクトレンズワンデーteamoclear1dayuv低含水高含水ティアモワン",
       "product_url": "https://item.rakuten.co.jp/teamo/pure_clear_1",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-6866cc6b43eb.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-6866cc6b43eb.jpg",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "atcontact:10002164",
@@ -241,7 +251,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxen.iax441e6.g00rvxen.iax457c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_kz_cm30z0_02_m%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "コンタクトレンズクレオワンデーuvモイスト1日使い捨て入2セットコンタクト自然体コン",
       "product_url": "https://item.rakuten.co.jp/atcontact/k_kz_cm30z0_02_m",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-6b4855b1ee8f.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-6b4855b1ee8f.jpg",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "rebun:10007922",
@@ -263,7 +274,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pp1qn.iax44624.g00pp1qn.iax459fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frebun%2Fshos01%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "まだ間に合う父の日ギフト北海道海鮮セットnagomi内祝いお返し5000円誕生日",
       "product_url": "https://item.rakuten.co.jp/rebun/shos01",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-3ca49c7b9da9.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-3ca49c7b9da9.jpg",
+      "theme_signature": "item:rebun:10007922"
     },
     {
       "item_code": "attenir:10000252",
@@ -285,7 +297,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tna6n.iax44973.g00tna6n.iax45040/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fattenir%2F166013%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "スキンクレンズオイル大容量用",
       "product_url": "https://item.rakuten.co.jp/attenir/166013",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-bd9679a5c513.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-bd9679a5c513.jpg",
+      "theme_signature": "item:attenir:10000252"
     },
     {
       "item_code": "candymagic:10000575",
@@ -307,7 +320,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qssmn.iax44030.g00qssmn.iax45d69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "カラコンワンデーあたり1144円revia1daycolor入合計",
       "product_url": "https://item.rakuten.co.jp/candymagic/rv-100",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-a432d1c34164.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-a432d1c34164.jpg",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "red-jpn:10000026",
@@ -329,7 +343,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00upg4n.iax44d1d.g00upg4n.iax45720/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fred-jpn%2F1766620101%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "リカバリーウェアredぐっすりパジャマ上下セットプルオーバー半袖半ズボン血行促進疲労回復",
       "product_url": "https://item.rakuten.co.jp/red-jpn/1766620101",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-463b08d9dce8.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-463b08d9dce8.jpg",
+      "theme_signature": "theme:pajama"
     },
     {
       "item_code": "netbaby:10027922",
@@ -351,7 +366,8 @@
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.iax44e89.g00pzd4n.iax4533b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404196%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
       "normalized_item_name": "グーンぐんぐん吸収パンツディズニープリンセスおむつ",
       "product_url": "https://item.rakuten.co.jp/netbaby/404196",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-798a798c5589.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-798a798c5589.jpg",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "otsuyocontactlens:10000008",
@@ -362,8 +378,8 @@
       "item_name": "ボシュロム　メダリスト ワンデープラス　1箱30枚入 6箱　処方箋不要（90枚パック×2箱セットと同じ数量）",
       "normalized_item_name": "ボシュロムメダリストワンデープラス入処方箋不要パックセットと同じ数量",
       "seo_title": "ボシュロム メダリスト ワンデープラス 1箱30枚入 6箱 処方箋不要（90枚パック×2箱セットと同じ数量）の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "beauty",
+      "category_label": "美容",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/otsuyocontactlens/cabinet/04013890/imgrc0073938818.gif?_ex=320x320",
       "item_price": 5706,
       "review_average": 4.66,
@@ -373,7 +389,8 @@
       "published_at": "2026-06-21T07:14:06+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-95802aaf33db.html",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0sgn.iax4474f.g00s0sgn.iax45ec0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotsuyocontactlens%2Fmedalist_1day_plus_a2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-95802aaf33db.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-95802aaf33db.jpg",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "yumochi:10000046",
@@ -395,7 +412,8 @@
       "published_at": "2026-06-21T07:14:06+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-28a5b3fcd7c1.html",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u20an.iax44687.g00u20an.iax45b80/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyumochi%2Fyc0045%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-28a5b3fcd7c1.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-28a5b3fcd7c1.jpg",
+      "theme_signature": "item:yumochi:10000046"
     },
     {
       "item_code": "irisplaza-r:10136708",
@@ -417,7 +435,8 @@
       "published_at": "2026-06-21T07:14:06+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-032f3a0859d3.html",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3ztn.iax44017.g00t3ztn.iax451c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F310999-cp%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-032f3a0859d3.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-032f3a0859d3.jpg",
+      "theme_signature": "item:irisplaza-r:10136708"
     },
     {
       "item_code": "rakuten24:11128644",
@@ -439,7 +458,8 @@
       "published_at": "2026-06-21T07:14:06+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-3637005ecb41.html",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r136n.iax44403.g00r136n.iax45cbb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404889%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-3637005ecb41.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-3637005ecb41.jpg",
+      "theme_signature": "item:rakuten24:11128644"
     },
     {
       "item_code": "kurashikenkou:10201844",
@@ -461,7 +481,8 @@
       "published_at": "2026-06-21T07:14:06+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-3dfce11ec1c8.html",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qhoan.iax4433d.g00qhoan.iax45dd4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F310999%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
-      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-3dfce11ec1c8.jpg"
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-3dfce11ec1c8.jpg",
+      "theme_signature": "item:kurashikenkou:10201844"
     },
     {
       "item_code": "koyo-omutsu:10000196",
@@ -483,7 +504,8 @@
       "published_at": "2026-06-22T07:04:53+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-83c8faafd0a9.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-83c8faafd0a9.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q5j8n.iax44415.g00q5j8n.iax45782/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoyo-omutsu%2F10000196%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoyo-omutsu%2Fi%2F10000196%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q5j8n.iax44415.g00q5j8n.iax45782/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkoyo-omutsu%2F10000196%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkoyo-omutsu%2Fi%2F10000196%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "pricon:10003151",
@@ -505,7 +527,8 @@
       "published_at": "2026-06-22T07:04:53+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-6c100940842f.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-6c100940842f.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpkn.iax440ab.g00qvpkn.iax4539a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpkn.iax440ab.g00qvpkn.iax4539a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "lensrewards:10000117",
@@ -527,7 +550,8 @@
       "published_at": "2026-06-22T07:04:53+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-d2dd006fb857.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-d2dd006fb857.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u7nkn.iax44173.g00u7nkn.iax4509e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensrewards%2F1davdm-02p%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u7nkn.iax44173.g00u7nkn.iax4509e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensrewards%2F1davdm-02p%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "atcontact:10002127",
@@ -549,7 +573,8 @@
       "published_at": "2026-06-22T07:04:53+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-15940c795aa4.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-15940c795aa4.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxen.iax441e6.g00rvxen.iax457c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxen.iax441e6.g00rvxen.iax457c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "takami-labo:10000519",
@@ -571,7 +596,8 @@
       "published_at": "2026-06-22T07:04:53+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-e0c731783945.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e0c731783945.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q04mn.iax441ae.g00q04mn.iax45205/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakami-labo%2Fr-s009%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q04mn.iax441ae.g00q04mn.iax45205/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakami-labo%2Fr-s009%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:skincare"
     },
     {
       "item_code": "kanaemina:10032766",
@@ -593,7 +619,8 @@
       "published_at": "2026-06-23T07:04:59+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-206b9d3abc7a.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-206b9d3abc7a.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rqzfn.iax44dfc.g00rqzfn.iax4586f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanaemina%2F1002-4904585021558-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanaemina%2Fi%2F10032766%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rqzfn.iax44dfc.g00rqzfn.iax4586f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanaemina%2F1002-4904585021558-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanaemina%2Fi%2F10032766%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "kouragumi:10001520",
@@ -615,7 +642,8 @@
       "published_at": "2026-06-23T07:04:59+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-7f30fe9653a9.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-7f30fe9653a9.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77tn.iax44c98.g00r77tn.iax45261/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77tn.iax44c98.g00r77tn.iax45261/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "item:kouragumi:10001520"
     },
     {
       "item_code": "e-kurashi:10048736",
@@ -637,7 +665,8 @@
       "published_at": "2026-06-23T07:04:59+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-8bad7f712f7a.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-8bad7f712f7a.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.iax44f50.g00pui9n.iax45fe3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs1u57%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.iax44f50.g00pui9n.iax45fe3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs1u57%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "item:e-kurashi:10048736"
     },
     {
       "item_code": "book:21995393",
@@ -659,7 +688,8 @@
       "published_at": "2026-06-23T07:04:59+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-73b3d29f57d8.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-73b3d29f57d8.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18673523%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18673523%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "item:book:21995393"
     },
     {
       "item_code": "wwpc:10064892",
@@ -681,7 +711,8 @@
       "published_at": "2026-06-23T07:04:59+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-b8dca959d608.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-b8dca959d608.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pt32n.iax448be.g00pt32n.iax45d97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwwpc%2F3182550901215%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pt32n.iax448be.g00pt32n.iax45d97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwwpc%2F3182550901215%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "item:wwpc:10064892"
     },
     {
       "item_code": "pricon:10000128",
@@ -703,7 +734,8 @@
       "published_at": "2026-06-24T07:05:14+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-62aba386b86c.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-62aba386b86c.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpkn.iax440ab.g00qvpkn.iax4539a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fc-1dayms90-2p%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpkn.iax440ab.g00qvpkn.iax4539a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fc-1dayms90-2p%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "earth-contact:10000641",
@@ -725,7 +757,8 @@
       "published_at": "2026-06-24T07:05:14+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-8d099044f3d3.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-8d099044f3d3.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rz7bn.iax443a6.g00rz7bn.iax45d27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fearth-contact%2F1doa90-02%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rz7bn.iax443a6.g00rz7bn.iax45d27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fearth-contact%2F1doa90-02%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "lensfree:10000056",
@@ -747,7 +780,8 @@
       "published_at": "2026-06-24T07:05:14+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-2347022ea5d0.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-2347022ea5d0.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s2zrn.iax44f57.g00s2zrn.iax45872/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensfree%2Fbl1dmp90-2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s2zrn.iax44f57.g00s2zrn.iax45872/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensfree%2Fbl1dmp90-2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "wavecontactlenses:10000330",
@@ -769,7 +803,8 @@
       "published_at": "2026-06-24T07:05:14+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-f3415c20aa50.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-f3415c20aa50.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tneln.iax449ec.g00tneln.iax452c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwavecontactlenses%2Fsd1dpup96-2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tneln.iax449ec.g00tneln.iax452c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwavecontactlenses%2Fsd1dpup96-2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:contact"
     },
     {
       "item_code": "radianne:10000810",
@@ -791,7 +826,8 @@
       "published_at": "2026-06-24T07:05:14+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-e16c6970a231.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e16c6970a231.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxtn.iax447fe.g00rzxtn.iax45539/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fradianne%2Fhs00082-b2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxtn.iax447fe.g00rzxtn.iax45539/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fradianne%2Fhs00082-b2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "item:radianne:10000810"
     },
     {
       "item_code": "beisia:10049168",
@@ -813,7 +849,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-94ec7c24e90a.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-94ec7c24e90a.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.iax44d84.g00s0vmn.iax4593d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4902011100471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10049168%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.iax44d84.g00s0vmn.iax4593d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4902011100471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10049168%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "hp100:10000553",
@@ -835,7 +872,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-994517b3e1e4.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-994517b3e1e4.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r9ugn.iax4400d.g00r9ugn.iax45a49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhp100%2Fell-1006-k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhp100%2Fi%2F10000553%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r9ugn.iax4400d.g00r9ugn.iax45a49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhp100%2Fell-1006-k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhp100%2Fi%2F10000553%2F&rafcid=wsc_i_is_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:diaper"
     },
     {
       "item_code": "umaimon-oumi:10062788",
@@ -846,8 +884,8 @@
       "item_name": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×1ケース（全10袋）送料無料",
       "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
       "seo_title": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×1ケース（全10袋）送料無料の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/umaimon-oumi/cabinet/sinki10/179-63745401-010.jpg?_ex=320x320",
       "item_price": 2450,
       "review_average": 0.0,
@@ -857,7 +895,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-249a93688156.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-249a93688156.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rthyn.iax44fae.g00rthyn.iax45fa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-oumi%2F63745401-10%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rthyn.iax44fae.g00rthyn.iax45fa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-oumi%2F63745401-10%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "umaimon-gyoumupro:10018623",
@@ -868,8 +907,8 @@
       "item_name": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×1ケース（全10袋）送料無料",
       "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
       "seo_title": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×1ケース（全10袋）送料無料の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/umaimon-gyoumupro/cabinet/sinki10/179-63745401-010.jpg?_ex=320x320",
       "item_price": 2450,
       "review_average": 0.0,
@@ -879,7 +918,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-cdddf4100d15.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-cdddf4100d15.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00usz3n.iax4408f.g00usz3n.iax452a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-gyoumupro%2F63745401-10%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00usz3n.iax4408f.g00usz3n.iax452a6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-gyoumupro%2F63745401-10%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "maruetsu:10074370",
@@ -890,8 +930,8 @@
       "item_name": "お中元　ギフト　だし麺全国食べ比べ14種セット 2026　送料無料　夏　贈答用　詰め合わせ　お取り寄せ　中元ギフト　人気　高級　上司　友人　親戚　家族　両親　同僚　内祝い　お祝い　御祝　お礼",
       "normalized_item_name": "お中元ギフトだし麺全国食べ比べセット2026夏贈答用詰め合わせお取り寄せ中元ギフト人気高級上司友人親戚家族両親同僚内祝いお祝い御祝お礼",
       "seo_title": "お中元 ギフト だし麺全国食べ比べ14種セット 2026 送料無料 夏 贈答用 詰め合わせ お取り寄せ 中…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/maruetsu/cabinet/2026oc/image/3082052.jpg?_ex=320x320",
       "item_price": 2138,
       "review_average": 0.0,
@@ -901,7 +941,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-663902efc6e1.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-663902efc6e1.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00piain.iax448f1.g00piain.iax45aa7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruetsu%2F26oc_3082052%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00piain.iax448f1.g00piain.iax45aa7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruetsu%2F26oc_3082052%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "umaimon-oumi:10062918",
@@ -912,8 +953,8 @@
       "item_name": "ラーメン tabete だし麺 国分 袋麺 選べる 10袋（10袋×1） 1ケース 選り取り よりどり 送料無料",
       "normalized_item_name": "ラーメンtabeteだし麺国分袋麺選べる1選り取りよりどり",
       "seo_title": "ラーメン tabete だし麺 国分 袋麺 選べる 10袋（10袋×1） 1ケース 選り取り よりどり 送…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/umaimon-oumi/cabinet/eraberu01/13160549/imgrc0118885698.jpg?_ex=320x320",
       "item_price": 2450,
       "review_average": 0.0,
@@ -923,7 +964,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-2c43b86fa9f4.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-2c43b86fa9f4.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rthyn.iax44fae.g00rthyn.iax45fa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-oumi%2F6374-eraberu1%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rthyn.iax44fae.g00rthyn.iax45fa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-oumi%2F6374-eraberu1%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "roji-nhb:10000270",
@@ -934,8 +976,8 @@
       "item_name": "tabete だし麺 千葉県産はまぐりだし塩らーめん 【1食 単品】【インスタントラーメン 袋麺 袋めん】【国分グループ本社 tabete タベテ だし麺】ご当地 ラーメン お取り寄せ ポイント消化 同梱",
       "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめんご当地ラーメンお取り寄せ消化同梱",
       "seo_title": "tabete だし麺 千葉県産はまぐりだし塩らーめん ご当地 ラーメン お取り寄せ ポイント消化 同梱の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/roji-nhb/cabinet/imgrc0141948687.jpg?_ex=320x320",
       "item_price": 232,
       "review_average": 5.0,
@@ -945,7 +987,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-7c25cb56150d.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-7c25cb56150d.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00usjpn.iax44094.g00usjpn.iax452bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froji-nhb%2F5131860%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00usjpn.iax44094.g00usjpn.iax452bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froji-nhb%2F5131860%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "hokkaido-gift-tanemi:10002394",
@@ -956,8 +999,8 @@
       "item_name": "はまぐりだしラーメン 送料無料 はまぐりだし ラーメン しお 1袋×5個 インスタント 袋麺 乾麺 千葉県 だし麺 はまぐり出汁ラーメン 塩ラーメン 麺類 ラーメン",
       "normalized_item_name": "はまぐりだしラーメンはまぐりだしラーメンしおインスタント袋麺乾麺千葉県だし麺はまぐり出汁ラーメン塩ラーメン麺類ラーメン",
       "seo_title": "はまぐりだしラーメン 送料無料 はまぐりだし ラーメン しお 1袋×5個 インスタント 袋麺 乾麺 千葉県…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hokkaido-gift-tanemi/cabinet/07423327/10454803/hamaguri-raumen5-450.jpg?_ex=320x320",
       "item_price": 2238,
       "review_average": 5.0,
@@ -967,7 +1010,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-46b10b6f656e.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-46b10b6f656e.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tst4n.iax448e1.g00tst4n.iax452af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaido-gift-tanemi%2Fhamaguri-dasi-raumen5%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tst4n.iax448e1.g00tst4n.iax452af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhokkaido-gift-tanemi%2Fhamaguri-dasi-raumen5%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "uchino-towelandbath:10020294",
@@ -989,7 +1033,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-1bf76d360fc8.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-1bf76d360fc8.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qxafn.iax4445c.g00qxafn.iax45fa8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuchino-towelandbath%2F90b3p789%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qxafn.iax4445c.g00qxafn.iax45fa8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuchino-towelandbath%2F90b3p789%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:towel"
     },
     {
       "item_code": "uchino-towelandbath:10020298",
@@ -1011,7 +1056,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-cb8fa7b191f9.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-cb8fa7b191f9.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qxafn.iax4445c.g00qxafn.iax45fa8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuchino-towelandbath%2F90f4p789%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qxafn.iax4445c.g00qxafn.iax45fa8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuchino-towelandbath%2F90f4p789%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:towel"
     },
     {
       "item_code": "kimchi88:10000157",
@@ -1022,8 +1068,8 @@
       "item_name": "お試しパック！キムチ6種類セット（840g）白菜キムチ200g・ダイコンキムチ200g・胡瓜キムチ200g・イカの塩辛キムチ100g・チャンジャ80g・焼きカマするめキムチ60g【キムチ 韓国 お漬物 本場 本格 大阪鶴橋 色々試せる おつまみ ご飯のお供 味見 甘辛】【冷蔵】【送料無料】",
       "normalized_item_name": "お試しパックキムチ類セット菜キムチダイコンキムチ胡瓜キムチイカの塩辛キムチチャンジャ焼きカマするめキムチ",
       "seo_title": "お試しパック！キムチ6種類セット（840g）白菜キムチ200g・ダイコンキムチ200g・胡瓜キムチ200g…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kimchi88/cabinet/imgrc0076245199.jpg?_ex=320x320",
       "item_price": 3180,
       "review_average": 4.48,
@@ -1033,7 +1079,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-4b80e5268373.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-4b80e5268373.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r4e9n.iax44427.g00r4e9n.iax45aef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkimchi88%2Fkimuchi-set-0001%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r4e9n.iax44427.g00r4e9n.iax45aef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkimchi88%2Fkimuchi-set-0001%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:kimchi"
     },
     {
       "item_code": "umaimon-healthsalute:10021845",
@@ -1044,8 +1091,8 @@
       "item_name": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×1ケース（全10袋）送料無料",
       "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
       "seo_title": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×1ケース（全10袋）送料無料の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/umaimon-healthsalute/cabinet/sinki10/179-63745401-010.jpg?_ex=320x320",
       "item_price": 2450,
       "review_average": 0.0,
@@ -1055,7 +1102,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-ae0bc31ad581.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-ae0bc31ad581.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00unlon.iax446b1.g00unlon.iax45c75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-healthsalute%2F63745401-10%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00unlon.iax446b1.g00unlon.iax45c75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-healthsalute%2F63745401-10%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "umaimon-oumi:10062789",
@@ -1066,8 +1114,8 @@
       "item_name": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×2ケース（全20袋）送料無料",
       "normalized_item_name": "tabeteだし麺千葉県産はまぐりだし塩らーめん袋全",
       "seo_title": "tabete だし麺 千葉県産はまぐりだし 塩らーめん108g袋×2ケース（全20袋）送料無料の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/umaimon-oumi/cabinet/sinki10/179-63745401-020.jpg?_ex=320x320",
       "item_price": 4000,
       "review_average": 0.0,
@@ -1077,7 +1125,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-55a4da0d8579.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-55a4da0d8579.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rthyn.iax44fae.g00rthyn.iax45fa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-oumi%2F63745401-20%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rthyn.iax44fae.g00rthyn.iax45fa4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fumaimon-oumi%2F63745401-20%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "kitakuranohatake:10005159",
@@ -1088,8 +1137,8 @@
       "item_name": "はまぐりだしラーメン 送料無料 はまぐりだし ラーメン しお 1袋×2個 インスタント 袋麺 乾麺 千葉県 だし麺 はまぐり出汁ラーメン 塩ラーメン 麺類 ラーメン",
       "normalized_item_name": "はまぐりだしラーメンはまぐりだしラーメンしおインスタント袋麺乾麺千葉県だし麺はまぐり出汁ラーメン塩ラーメン麺類ラーメン",
       "seo_title": "はまぐりだしラーメン 送料無料 はまぐりだし ラーメン しお 1袋×2個 インスタント 袋麺 乾麺 千葉県…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "food",
+      "category_label": "食品",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kitakuranohatake/cabinet/06344197/10037497/hamaguri-raumen2-450.jpg?_ex=320x320",
       "item_price": 838,
       "review_average": 3.7,
@@ -1099,7 +1148,8 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-fd64a64e6881.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-fd64a64e6881.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qzw0n.iax44bdf.g00qzw0n.iax4582c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitakuranohatake%2Fhamaguri-dasi-raumen2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qzw0n.iax44bdf.g00qzw0n.iax4582c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitakuranohatake%2Fhamaguri-dasi-raumen2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:ramen"
     },
     {
       "item_code": "uchino-towelandbath:10020526",
@@ -1121,15 +1171,16 @@
       "published_at": "2026-06-27T10:54:40+09:00",
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-94f7a3b7c8a1.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-94f7a3b7c8a1.jpg",
-      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qxafn.iax4445c.g00qxafn.iax45fa8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuchino-towelandbath%2F9015b799%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qxafn.iax4445c.g00qxafn.iax45fa8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fuchino-towelandbath%2F9015b799%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df",
+      "theme_signature": "theme:towel"
     }
   ],
   "statistics": {
     "total_articles": 51,
     "category_counts": {
-      "beauty": 12,
-      "food": 7,
-      "daily": 24,
+      "beauty": 13,
+      "food": 17,
+      "daily": 13,
       "baby": 7,
       "fashion": 1
     },
@@ -1140,6 +1191,6 @@
       "baby": "育児",
       "fashion": "ファッション"
     },
-    "last_updated_at": "2026-06-27T10:54:40+09:00"
+    "last_updated_at": "2026-06-27T11:14:03+09:00"
   }
 }
