@@ -1242,14 +1242,37 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-194c65f96923.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-194c65f96923.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00siy3n.iax44ee9.g00siy3n.iax45f03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fgccr%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "book:21931441",
+      "canonical_url": "https://item.rakuten.co.jp/book/18600497",
+      "product_url": "https://item.rakuten.co.jp/book/18600497",
+      "slug": "item-24f1e07f4ea5",
+      "title": "リズム天国 ミラクルスターズ",
+      "item_name": "リズム天国 ミラクルスターズ",
+      "normalized_item_name": "リズム天国ミラクルスターズ",
+      "seo_title": "リズム天国 ミラクルスターズの特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:book:21931441",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4298/4902370554298.jpg?_ex=320x320",
+      "item_price": 5830,
+      "review_average": 5.0,
+      "review_count": 1,
+      "ranking_rank": 4,
+      "shop_name": "楽天ブックス",
+      "published_at": "2026-07-01T07:04:25+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-24f1e07f4ea5.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-24f1e07f4ea5.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18600497%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 54,
+    "total_articles": 55,
     "category_counts": {
       "beauty": 16,
       "food": 14,
-      "daily": 14,
+      "daily": 15,
       "baby": 7,
       "fashion": 3
     },
@@ -1260,6 +1283,6 @@
       "baby": "育児",
       "fashion": "ファッション"
     },
-    "last_updated_at": "2026-06-30T07:03:40+09:00"
+    "last_updated_at": "2026-07-01T07:04:25+09:00"
   }
 }
