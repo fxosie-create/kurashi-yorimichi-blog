@@ -1334,16 +1334,62 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-e30b26947125.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e30b26947125.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvcvn.iax4473b.g00rvcvn.iax454ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthirtytwo-s%2Fburtle-ac260ac271%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "rakutenkobo-ebooks:26446279",
+      "canonical_url": "https://item.rakuten.co.jp/rakutenkobo-ebooks/64d0a34377f1386589c2605171330f3f",
+      "product_url": "https://item.rakuten.co.jp/rakutenkobo-ebooks/64d0a34377f1386589c2605171330f3f",
+      "slug": "item-8132b27fe954",
+      "title": "HUNTER×HUNTER モノクロ版 39",
+      "item_name": "HUNTER×HUNTER モノクロ版 39 【電子書籍】[ 冨樫義博 ]",
+      "normalized_item_name": "hunterhunterモノクロ版39",
+      "seo_title": "HUNTER×HUNTER モノクロ版 39の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:rakutenkobo-ebooks:26446279",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6443/2000020786443.jpg?_ex=320x320",
+      "item_price": 572,
+      "review_average": 0.0,
+      "review_count": 0,
+      "ranking_rank": 1,
+      "shop_name": "楽天Kobo電子書籍ストア",
+      "published_at": "2026-07-03T07:04:23+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-8132b27fe954.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-8132b27fe954.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00reb4n.iax4491e.g00reb4n.iax45095/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F64d0a34377f1386589c2605171330f3f%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "e-kurashi:10048948",
+      "canonical_url": "https://item.rakuten.co.jp/e-kurashi/s1k76",
+      "product_url": "https://item.rakuten.co.jp/e-kurashi/s1k76",
+      "slug": "item-885be07d81d3",
+      "title": "除湿機 衣類乾燥除湿機 コンプレッサー式 6L/日 12L/日 除湿目安14畳 28畳 小型 キャスター付…",
+      "item_name": "除湿機 衣類乾燥除湿機 コンプレッサー式 6L/日 12L/日 除湿目安14畳 28畳 小型 キャスター付き EBDC-H45/YDC-H120 除湿器 除湿乾燥機 衣類乾燥 部屋干し 湿気対策 おしゃれ 山善 YAMAZEN 【送料無料】",
+      "normalized_item_name": "除湿機衣類乾燥除湿機コンプレッサー式日日除湿目安14畳28畳小型キャスター付きebdch45ydch120除湿器除湿乾燥機衣類乾燥部屋干し湿気対策おしゃれ山善yamazen",
+      "seo_title": "除湿機 衣類乾燥除湿機 コンプレッサー式 6L/日 12L/日 除湿目安14畳 28畳 小型 キャスター付…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "fashion",
+      "category_label": "ファッション",
+      "theme_signature": "item:e-kurashi:10048948",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/rank-img/020/main-r8p23.jpg?_ex=320x320",
+      "item_price": 14800,
+      "review_average": 4.17,
+      "review_count": 592,
+      "ranking_rank": 9,
+      "shop_name": "くらしのeショップ",
+      "published_at": "2026-07-03T07:04:23+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-885be07d81d3.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-885be07d81d3.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9n.iax44f50.g00pui9n.iax45fe3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs1k76%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 58,
+    "total_articles": 60,
     "category_counts": {
       "beauty": 16,
       "food": 14,
-      "daily": 16,
+      "daily": 17,
       "baby": 8,
-      "fashion": 4
+      "fashion": 5
     },
     "category_labels": {
       "beauty": "美容",
@@ -1352,6 +1398,6 @@
       "baby": "育児",
       "fashion": "ファッション"
     },
-    "last_updated_at": "2026-07-02T07:04:34+09:00"
+    "last_updated_at": "2026-07-03T07:04:23+09:00"
   }
 }

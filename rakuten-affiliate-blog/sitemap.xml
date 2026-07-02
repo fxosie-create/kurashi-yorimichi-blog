@@ -2,42 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/about.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/privacy.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/beauty.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/food.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/daily.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/baby.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://kurashi-yorimichi-blog.vercel.app/categories/fashion.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-885be07d81d3.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://kurashi-yorimichi-blog.vercel.app/articles/item-8132b27fe954.html</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
