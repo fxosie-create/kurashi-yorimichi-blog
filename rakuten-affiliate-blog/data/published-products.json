@@ -930,9 +930,9 @@
       "item_name": "楽天1位 パワフル除湿 コンプレッサー式 除湿機 衣類乾燥付き [10L/日 24畳] [12L/日 30畳] コンパクト 小型 コンプレッサー 除湿器 タンク 3L 衣類乾燥 除湿乾燥機 衣類乾燥機 省エネ 強力 静音 湿気対策 部屋干し 衣類乾燥除湿機 梅雨",
       "normalized_item_name": "パワフル除湿コンプレッサー式除湿機衣類乾燥付きコンパクト小型コンプレッサー除湿器タンク衣類乾燥除湿乾燥機衣類乾燥機省エネ強力静音湿気対策部屋干し衣類乾燥除湿機梅雨",
       "seo_title": "楽天1位 パワフル除湿 コンプレッサー式 除湿機 衣類乾燥付き コンパクト 小型 コンプレッサー 除湿器…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "fashion",
-      "category_label": "ファッション",
-      "theme_signature": "item:位パワフル除湿コンプレッサー式除湿機衣類乾燥付き",
+      "category": "appliance",
+      "category_label": "家電",
+      "theme_signature": "theme:dehumidifier",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/07132725/79700006_10b.jpg?_ex=320x320",
       "item_price": 12999,
       "review_average": 4.33,
@@ -1321,9 +1321,9 @@
       "item_name": "在庫有!! 2026 最新 バートル BURTLE 空調 服 30V バッテリー ファン セット バッテリー単品選択可 カラー ファン ペルチェ ファン付きウェア用 空調 作業 服【AC10】【AC10-1】【AC10-2】【IC10-1】エアークラフト リチウムイオンバッテリー",
       "normalized_item_name": "在庫有2026最新バートルburtle空調服30vバッテリーファンセットバッテリー単品選択可カラーファンペルチェファン付きウェア用空調作業服エアークラフトリチウムイオンバッテリー",
       "seo_title": "在庫有!! 2026 最新 バートル BURTLE 空調 服 30V バッテリー ファン セット バッテリ…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "fashion",
-      "category_label": "ファッション",
-      "theme_signature": "item:thirtytwo-s:10010542",
+      "category": "tools",
+      "category_label": "空調服・工具",
+      "theme_signature": "theme:air_conditioned_workwear",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/thirtytwo-s/cabinet/burtle/3/ac10-ac10-2-1.jpg?_ex=320x320",
       "item_price": 13365,
       "review_average": 4.65,
@@ -1367,9 +1367,9 @@
       "item_name": "除湿機 衣類乾燥除湿機 コンプレッサー式 6L/日 12L/日 除湿目安14畳 28畳 小型 キャスター付き EBDC-H45/YDC-H120 除湿器 除湿乾燥機 衣類乾燥 部屋干し 湿気対策 おしゃれ 山善 YAMAZEN 【送料無料】",
       "normalized_item_name": "除湿機衣類乾燥除湿機コンプレッサー式日日除湿目安14畳28畳小型キャスター付きebdch45ydch120除湿器除湿乾燥機衣類乾燥部屋干し湿気対策おしゃれ山善yamazen",
       "seo_title": "除湿機 衣類乾燥除湿機 コンプレッサー式 6L/日 12L/日 除湿目安14畳 28畳 小型 キャスター付…の特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "fashion",
-      "category_label": "ファッション",
-      "theme_signature": "item:e-kurashi:10048948",
+      "category": "appliance",
+      "category_label": "家電",
+      "theme_signature": "theme:dehumidifier",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/rank-img/020/main-r8p23.jpg?_ex=320x320",
       "item_price": 14800,
       "review_average": 4.17,
@@ -1389,15 +1389,21 @@
       "food": 14,
       "daily": 17,
       "baby": 8,
-      "fashion": 5
+      "fashion": 2,
+      "appliance": 2,
+      "tools": 1,
+      "seasonal": 0
     },
     "category_labels": {
       "beauty": "美容",
       "food": "食品",
       "daily": "日用品",
       "baby": "育児",
-      "fashion": "ファッション"
+      "fashion": "ファッション",
+      "appliance": "家電",
+      "tools": "空調服・工具",
+      "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-03T07:04:23+09:00"
+    "last_updated_at": "2026-07-03T18:04:23+09:00"
   }
 }
