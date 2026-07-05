@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-07-05T13:46:52+09:00",
+  "generated_at": "2026-07-06T07:03:52+09:00",
   "threshold": 0.9,
-  "article_count": 67,
+  "article_count": 70,
   "candidate_count": 0,
   "candidates": [],
   "action": "report_only"
