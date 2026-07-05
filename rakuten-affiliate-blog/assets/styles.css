@@ -451,6 +451,38 @@ nav a[aria-current="page"] {
   -webkit-line-clamp: 2;
 }
 
+.article-card-body .card-catch-copy {
+  margin-bottom: 10px;
+  -webkit-line-clamp: 3;
+}
+
+.article-card-points {
+  margin: 0 0 14px;
+  padding: 0;
+  display: grid;
+  gap: 7px;
+  color: var(--ink);
+  font-size: 0.78rem;
+  line-height: 1.48;
+  list-style: none;
+}
+
+.article-card-points li {
+  position: relative;
+  padding-left: 16px;
+}
+
+.article-card-points li::before {
+  position: absolute;
+  top: 0.62em;
+  left: 0;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--gold);
+  content: "";
+}
+
 .article-meta {
   display: flex;
   align-items: center;
@@ -488,6 +520,19 @@ nav a[aria-current="page"] {
   background: #fff;
   font-size: 0.78rem;
   text-decoration: none;
+}
+
+.article-card .article-card-cta {
+  width: 100%;
+  min-height: 50px;
+  margin-top: auto;
+  padding: 12px 16px;
+  border: 1px solid rgba(56, 106, 82, 0.18);
+  background: var(--green-dark);
+  color: #fff;
+  font-size: 0.86rem;
+  line-height: 1.35;
+  box-shadow: 0 10px 20px rgba(56, 106, 82, 0.18);
 }
 
 .note-panel {
