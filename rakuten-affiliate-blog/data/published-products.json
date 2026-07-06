@@ -1610,15 +1610,61 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-047ee96de25a.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-047ee96de25a.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sv1xn.iax44fd5.g00sv1xn.iax454ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkagu-reflet%2Fkrm-r-ss11%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "luckyrabbit:10007862",
+      "canonical_url": "https://item.rakuten.co.jp/luckyrabbit/pp21019712ba04040",
+      "product_url": "https://item.rakuten.co.jp/luckyrabbit/pp21019712ba04040",
+      "slug": "item-7b8376944d30",
+      "title": "在庫処分 オールインワン サロペット ワイドパンツ サロペットパンツ レディース キャミ ガウチョパンツ…",
+      "item_name": "在庫処分 オールインワン サロペット ワイドパンツ サロペットパンツ レディース キャミ ガウチョパンツ パンツドレス カジュアル おし",
+      "normalized_item_name": "在庫処分オールインワンサロペットワイドパンツサロペットパンツレディースキャミガウチョパンツパンツドレスカジュアルおし",
+      "seo_title": "在庫処分 オールインワン サロペット ワイドパンツ サロペットパンツ レディース キャミ ガウチョパンツ…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "baby",
+      "category_label": "育児",
+      "theme_signature": "item:luckyrabbit:10007862",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/luckyrabbit/cabinet/13150733/p98061044/p21019712ba04_1.jpg?_ex=320x320",
+      "item_price": 3002,
+      "review_average": 0.0,
+      "review_count": 0,
+      "ranking_rank": 25,
+      "shop_name": "LuckyRabbit",
+      "published_at": "2026-07-07T07:04:28+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-7b8376944d30.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-7b8376944d30.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uun3n.iax44e7b.g00uun3n.iax45dd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluckyrabbit%2Fpp21019712ba04040%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "luckyrabbit:10028540",
+      "canonical_url": "https://item.rakuten.co.jp/luckyrabbit/plz5080840153153",
+      "product_url": "https://item.rakuten.co.jp/luckyrabbit/plz5080840153153",
+      "slug": "item-652f1cff1e2b",
+      "title": "春物 トレーナー メンズ トレーナー トップス 切替トレーナー クルーネック プリント ロゴ 春服 春 春物",
+      "item_name": "春物 トレーナー メンズ トレーナー トップス 切替トレーナー クルーネック プリント ロゴ 春服 春 春物",
+      "normalized_item_name": "春物トレーナーメンズトレーナートップス切替トレーナークルーネックプリントロゴ春服春春物",
+      "seo_title": "春物 トレーナー メンズ トレーナー トップス 切替トレーナー クルーネック プリント ロゴ 春服 春 春物の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:luckyrabbit:10028540",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/luckyrabbit/cabinet/13150733/p53077475/lz5080840_1.jpg?_ex=320x320",
+      "item_price": 3000,
+      "review_average": 0.0,
+      "review_count": 0,
+      "ranking_rank": 2,
+      "shop_name": "LuckyRabbit",
+      "published_at": "2026-07-07T07:04:28+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-652f1cff1e2b.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-652f1cff1e2b.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uun3n.iax44e7b.g00uun3n.iax45dd8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluckyrabbit%2Fplz5080840153153%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 70,
+    "total_articles": 72,
     "category_counts": {
       "beauty": 17,
       "food": 15,
-      "daily": 20,
-      "baby": 9,
+      "daily": 21,
+      "baby": 10,
       "fashion": 2,
       "appliance": 4,
       "tools": 1,
@@ -1634,6 +1680,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-06T07:03:51+09:00"
+    "last_updated_at": "2026-07-07T07:04:28+09:00"
   }
 }
