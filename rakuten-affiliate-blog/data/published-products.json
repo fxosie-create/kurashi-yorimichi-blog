@@ -2001,17 +2001,63 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-4dcaea279580.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-4dcaea279580.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r8sen.iax44ac4.g00r8sen.iax45e8a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fntvshop%2F2023a5010001%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "shopjapan:10005815",
+      "canonical_url": "https://item.rakuten.co.jp/shopjapan/ccht",
+      "product_url": "https://item.rakuten.co.jp/shopjapan/ccht",
+      "slug": "item-264d9cb2555e",
+      "title": "ここひえ タワーT32026年最新モデル 正規品 ショップジャパン公式 扇風機 タワー型クーラー ミスト…",
+      "item_name": "【送料無料】ここひえ タワーT32026年最新モデル 正規品 ショップジャパン公式 扇風機 タワー型クーラー ミスト 省エネ ミストクーラー",
+      "normalized_item_name": "ここひえタワーt32026年最新モデル正規品ショップジャパン公式扇風機タワー型クーラーミスト省エネミストクーラー",
+      "seo_title": "ここひえ タワーT32026年最新モデル 正規品 ショップジャパン公式 扇風機 タワー型クーラー ミスト…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "appliance",
+      "category_label": "家電",
+      "theme_signature": "item:shopjapan:10005815",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopjapan/cabinet/ccht3/main.jpg?_ex=320x320",
+      "item_price": 19800,
+      "review_average": 3.93,
+      "review_count": 131,
+      "ranking_rank": 5,
+      "shop_name": "ショップジャパン 楽天市場店",
+      "published_at": "2026-07-13T07:04:33+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-264d9cb2555e.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-264d9cb2555e.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppmmn.iax447dc.g00ppmmn.iax457c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopjapan%2Fccht%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "ask-direct:10002069",
+      "canonical_url": "https://item.rakuten.co.jp/ask-direct/vd8971",
+      "product_url": "https://item.rakuten.co.jp/ask-direct/vd8971",
+      "slug": "item-38d098bc3dc5",
+      "title": "GAINWARD RTX5080 PHOENIX 16GB GDDR7 256bit 3-DP HDMI…",
+      "item_name": "GAINWARD RTX5080 PHOENIX 16GB GDDR7 256bit 3-DP HDMI CUDAコア10752基とGDDR7メモリ16GB装備 グラフィックカード｜NE75080019T2-GB2031X",
+      "normalized_item_name": "gainwardrtx5080phoenixbgddr7256bit3dphdmicudaコア10752基とgddr7メモリb装備グラフィックカードne75080019t2gb2031x",
+      "seo_title": "GAINWARD RTX5080 PHOENIX 16GB GDDR7 256bit 3-DP HDMI…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:ask-direct:10002069",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ask-direct/cabinet/item_image_202502_1/1_000000092904.jpg?_ex=320x320",
+      "item_price": 218000,
+      "review_average": 0.0,
+      "review_count": 0,
+      "ranking_rank": 11,
+      "shop_name": "ASKダイレクト",
+      "published_at": "2026-07-13T07:04:33+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-38d098bc3dc5.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-38d098bc3dc5.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u3omn.iax44d4d.g00u3omn.iax45888/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fask-direct%2Fvd8971%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 87,
+    "total_articles": 89,
     "category_counts": {
       "beauty": 19,
       "food": 19,
-      "daily": 26,
+      "daily": 27,
       "baby": 11,
       "fashion": 2,
-      "appliance": 5,
+      "appliance": 6,
       "tools": 1,
       "seasonal": 4
     },
@@ -2025,6 +2071,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-12T07:04:53+09:00"
+    "last_updated_at": "2026-07-13T07:04:33+09:00"
   }
 }
