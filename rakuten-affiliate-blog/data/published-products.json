@@ -2530,14 +2530,37 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-c4fa422cf724.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-c4fa422cf724.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ttksn.iax44ae4.g00ttksn.iax458f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbnetshop39%2F4902407024411-2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "yamada-denki:10674982",
+      "canonical_url": "https://item.rakuten.co.jp/yamada-denki/7999577018",
+      "product_url": "https://item.rakuten.co.jp/yamada-denki/7999577018",
+      "slug": "item-5e0cf3234f7b",
+      "title": "PlayStation(R)5 デジタル・エディション 日本語専用 Console Language: J…",
+      "item_name": "PlayStation(R)5 デジタル・エディション 日本語専用 Console Language: Japanese only CFI-2200B01",
+      "normalized_item_name": "playstationr5デジタルエディション日本語専用consolelanguagejapaneseonlycfi2200b01",
+      "seo_title": "PlayStation(R)5 デジタル・エディション 日本語専用 Console Language: J…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:yamada-denki:10674982",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000495/7999577018.jpg?_ex=320x320",
+      "item_price": 55000,
+      "review_average": 4.5,
+      "review_count": 42,
+      "ranking_rank": 9,
+      "shop_name": "ヤマダ電機　楽天市場店",
+      "published_at": "2026-07-19T07:02:58+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-5e0cf3234f7b.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-5e0cf3234f7b.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.iax44817.g00t3jpn.iax453ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7999577018%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 110,
+    "total_articles": 111,
     "category_counts": {
       "beauty": 22,
       "food": 21,
-      "daily": 32,
+      "daily": 33,
       "baby": 12,
       "fashion": 3,
       "appliance": 11,
@@ -2554,6 +2577,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-18T07:03:31+09:00"
+    "last_updated_at": "2026-07-19T07:02:58+09:00"
   }
 }
