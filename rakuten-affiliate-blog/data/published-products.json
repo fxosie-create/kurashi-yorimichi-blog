@@ -2553,14 +2553,37 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-5e0cf3234f7b.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-5e0cf3234f7b.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3jpn.iax44817.g00t3jpn.iax453ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F7999577018%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "",
+      "canonical_url": "https://item.rakuten.co.jp/book/18612000",
+      "product_url": "https://item.rakuten.co.jp/book/18612000",
+      "slug": "item-9a0929b81d0e",
+      "title": "スプラトゥーン レイダース",
+      "item_name": "スプラトゥーン レイダース",
+      "normalized_item_name": "スプラトゥーンレイダース",
+      "seo_title": "スプラトゥーン レイダースの特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:スプラトゥーンレイダース",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4359/4902370554359.jpg?_ex=320x320",
+      "item_price": 6507,
+      "review_average": 5.0,
+      "review_count": 2,
+      "ranking_rank": 17,
+      "shop_name": "楽天ブックス",
+      "published_at": "2026-07-24T11:24:47+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-9a0929b81d0e.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-9a0929b81d0e.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18612000%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 111,
+    "total_articles": 112,
     "category_counts": {
       "beauty": 22,
       "food": 21,
-      "daily": 33,
+      "daily": 34,
       "baby": 12,
       "fashion": 3,
       "appliance": 11,
@@ -2577,6 +2600,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-19T07:02:58+09:00"
+    "last_updated_at": "2026-07-24T11:24:47+09:00"
   }
 }
