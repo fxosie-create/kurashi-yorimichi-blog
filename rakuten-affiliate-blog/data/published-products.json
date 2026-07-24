@@ -2563,8 +2563,8 @@
       "item_name": "スプラトゥーン レイダース",
       "normalized_item_name": "スプラトゥーンレイダース",
       "seo_title": "スプラトゥーン レイダースの特徴は？価格・レビュー・購入前ポイントまとめ",
-      "category": "daily",
-      "category_label": "日用品",
+      "category": "appliance",
+      "category_label": "家電",
       "theme_signature": "item:スプラトゥーンレイダース",
       "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4359/4902370554359.jpg?_ex=320x320",
       "item_price": 6507,
@@ -2583,10 +2583,10 @@
     "category_counts": {
       "beauty": 22,
       "food": 21,
-      "daily": 34,
+      "daily": 33,
       "baby": 12,
       "fashion": 3,
-      "appliance": 11,
+      "appliance": 12,
       "tools": 2,
       "seasonal": 7
     },
