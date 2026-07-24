@@ -2668,17 +2668,63 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-d97cff76a50f.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-d97cff76a50f.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc3tn.iax4407d.g00tc3tn.iax4574e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmobile123%2Fb1557coolp%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "book:21996454",
+      "canonical_url": "https://item.rakuten.co.jp/book/18672234",
+      "product_url": "https://item.rakuten.co.jp/book/18672234",
+      "slug": "item-dfb0512245d5",
+      "title": "Nintendo Switch 2（日本語・国内専用） スプラトゥーン レイダース セット(『スプラトゥー…",
+      "item_name": "【特典】Nintendo Switch 2（日本語・国内専用） スプラトゥーン レイダース セット(『スプラトゥーン レイダース』クッション)",
+      "normalized_item_name": "nintendoswitch2日本語国内専用スプラトゥーンレイダースセットスプラトゥーンレイダースクッション",
+      "seo_title": "Nintendo Switch 2（日本語・国内専用） スプラトゥーン レイダース セット(『スプラトゥー…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "appliance",
+      "category_label": "家電",
+      "theme_signature": "item:book:21996454",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4779/4902370554779_1_3.jpg?_ex=320x320",
+      "item_price": 64980,
+      "review_average": 5.0,
+      "review_count": 4,
+      "ranking_rank": 60,
+      "shop_name": "楽天ブックス",
+      "published_at": "2026-07-25T07:03:36+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-dfb0512245d5.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-dfb0512245d5.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18672234%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "lindt-chocolate:10002012",
+      "canonical_url": "https://item.rakuten.co.jp/lindt-chocolate/9701390",
+      "product_url": "https://item.rakuten.co.jp/lindt-chocolate/9701390",
+      "slug": "item-820811584b0e",
+      "title": "Lindt リンドール チョコレート サマーラッキーバッグ2026 15,000円（送料込）",
+      "item_name": "【リンツ 夏の福袋】Lindt リンドール チョコレート サマーラッキーバッグ2026 15,000円（送料込）",
+      "normalized_item_name": "lindtリンドールチョコレートサマーラッキーバッグ202615000円送料込",
+      "seo_title": "Lindt リンドール チョコレート サマーラッキーバッグ2026 15,000円（送料込）の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:lindt-chocolate:10002012",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/9702150.jpg?_ex=320x320",
+      "item_price": 15000,
+      "review_average": 4.9,
+      "review_count": 20,
+      "ranking_rank": 8,
+      "shop_name": "リンツ チョコレート 楽天市場店",
+      "published_at": "2026-07-25T07:03:36+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-820811584b0e.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-820811584b0e.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjgn.iax44825.g00sjjgn.iax4551f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2F9701390%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 116,
+    "total_articles": 118,
     "category_counts": {
       "beauty": 23,
       "food": 21,
-      "daily": 34,
+      "daily": 35,
       "baby": 13,
       "fashion": 3,
-      "appliance": 12,
+      "appliance": 13,
       "tools": 2,
       "seasonal": 8
     },
@@ -2692,6 +2738,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-24T19:52:06+09:00"
+    "last_updated_at": "2026-07-25T07:03:36+09:00"
   }
 }
