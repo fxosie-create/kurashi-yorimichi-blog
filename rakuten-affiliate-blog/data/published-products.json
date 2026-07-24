@@ -2645,10 +2645,33 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-63cbde1e989a.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-63cbde1e989a.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ql7dn.iax449d4.g00ql7dn.iax453e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-assy-underwear%2F10004119%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "mobile123:10001830",
+      "canonical_url": "https://item.rakuten.co.jp/mobile123/b1557coolp",
+      "product_url": "https://item.rakuten.co.jp/mobile123/b1557coolp",
+      "slug": "item-d97cff76a50f",
+      "title": "ポンチョ 冷感 S / M / L 冷感ポンチョ キッズ サッカー クールタオル 冷感タオル 冷却タオル…",
+      "item_name": "【楽天1位＆ ナゾトレ で紹介】 ポンチョ 冷感 S / M / L 冷感ポンチョ キッズ サッカー クールタオル 冷感タオル 冷却タオル クールポンチョ ラッシュガード フード 付き 冷却ポンチョ ひんやり アイス ポンチョ UV 最大 98％カット 夏 暑さ対策 熱中症対策 アウトドア",
+      "normalized_item_name": "ポンチョ冷感冷感ポンチョキッズサッカークールタオル冷感タオル冷却タオルクールポンチョラッシュガードフード付き冷却ポンチョひんやりアイスポンチョuv最大98カット夏暑さ対策熱中症対策アウトドア",
+      "seo_title": "ポンチョ 冷感 S / M / L 冷感ポンチョ キッズ サッカー クールタオル 冷感タオル 冷却タオル…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "seasonal",
+      "category_label": "季節商品",
+      "theme_signature": "theme:towel",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mobile123/cabinet/bellemond/b17/b1766_001_v4.jpg?_ex=320x320",
+      "item_price": 1998,
+      "review_average": 4.33,
+      "review_count": 138,
+      "ranking_rank": 60,
+      "shop_name": "BELLEMOND（ベルモンド）公式",
+      "published_at": "2026-07-24T19:52:06+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-d97cff76a50f.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-d97cff76a50f.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc3tn.iax4407d.g00tc3tn.iax4574e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmobile123%2Fb1557coolp%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 115,
+    "total_articles": 116,
     "category_counts": {
       "beauty": 23,
       "food": 21,
@@ -2657,7 +2680,7 @@
       "fashion": 3,
       "appliance": 12,
       "tools": 2,
-      "seasonal": 7
+      "seasonal": 8
     },
     "category_labels": {
       "beauty": "美容",
@@ -2669,6 +2692,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-24T19:46:56+09:00"
+    "last_updated_at": "2026-07-24T19:52:06+09:00"
   }
 }
