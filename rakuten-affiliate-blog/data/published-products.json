@@ -2714,14 +2714,60 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-820811584b0e.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-820811584b0e.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjgn.iax44825.g00sjjgn.iax4551f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2F9701390%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "cleosbeaute:10000010",
+      "canonical_url": "https://item.rakuten.co.jp/cleosbeaute/10000007",
+      "product_url": "https://item.rakuten.co.jp/cleosbeaute/10000007",
+      "slug": "item-2e7e2943c105",
+      "title": "Cleo's Beaute クレオズボーテ エクストラモイストシャンプー・リペアトリートメント 宝石シャン…",
+      "item_name": "[30%ポイントバック26日9:59マデ] Cleo's Beaute クレオズボーテ エクストラモイストシャンプー・リペアトリートメント 宝石シャンプー 髪質改善 まとまり ツヤ髪 シャンプー アミノ酸 ブリーチ しっとり ヘアケア",
+      "normalized_item_name": "cleobeauteクレオズボーテエクストラモイストシャンプーリペアトリートメント宝石シャンプー髪質改善まとまりツヤ髪シャンプーアミノ酸ブリーチしっとりヘアケア",
+      "seo_title": "Cleo's Beaute クレオズボーテ エクストラモイストシャンプー・リペアトリートメント 宝石シャン…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "beauty",
+      "category_label": "美容",
+      "theme_signature": "theme:skincare",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cleosbeaute/cabinet/13073947/imgrc0109082321.jpg?_ex=320x320",
+      "item_price": 3740,
+      "review_average": 4.43,
+      "review_count": 1274,
+      "ranking_rank": 15,
+      "shop_name": "cleo ’sBeaute",
+      "published_at": "2026-07-26T07:02:30+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-2e7e2943c105.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-2e7e2943c105.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u93bn.iax44d18.g00u93bn.iax45600/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcleosbeaute%2F10000007%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "thanksteddybear:10000311",
+      "canonical_url": "https://item.rakuten.co.jp/thanksteddybear/weightbear-chocolate2",
+      "product_url": "https://item.rakuten.co.jp/thanksteddybear/weightbear-chocolate2",
+      "slug": "item-408968178f45",
+      "title": "体重ベア刺繍込 2体セット カラー限定",
+      "item_name": "【8月予約 残りわずか】体重ベア刺繍込 2体セット カラー限定｜ショコラ レコメンド ブラウン（茶）｜結婚式 両親贈呈 成人 出産祝い 誕生日｜きょうだい ふたご｜ウェイトベア プレゼント ウェイトドール ギフト",
+      "normalized_item_name": "体重ベア刺繍込2体セットカラーショコラレコメンド茶結婚式両親贈呈成人出産祝い誕生日きょうだいふたごウェイトベアプレゼントウェイトドールギフト",
+      "seo_title": "体重ベア刺繍込 2体セット カラー限定の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:thanksteddybear:10000311",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/thanksteddybear/cabinet/prodauct/choco/recommend/reco-2set-fast-b.jpg?_ex=320x320",
+      "item_price": 19960,
+      "review_average": 5.0,
+      "review_count": 23,
+      "ranking_rank": 3,
+      "shop_name": "赤ちゃん 体重ベア くまさん工房",
+      "published_at": "2026-07-26T07:02:30+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-408968178f45.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-408968178f45.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q46gn.iax4485d.g00q46gn.iax45138/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthanksteddybear%2Fweightbear-chocolate2%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 118,
+    "total_articles": 120,
     "category_counts": {
-      "beauty": 23,
+      "beauty": 24,
       "food": 21,
-      "daily": 35,
+      "daily": 36,
       "baby": 13,
       "fashion": 3,
       "appliance": 13,
@@ -2738,6 +2784,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-25T07:03:36+09:00"
+    "last_updated_at": "2026-07-26T07:02:30+09:00"
   }
 }
