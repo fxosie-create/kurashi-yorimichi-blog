@@ -2898,14 +2898,37 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-b4936550c67e.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-b4936550c67e.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00so8dn.iax4467c.g00so8dn.iax45c72/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdki%2Fnf-pc-prn7%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "",
+      "canonical_url": "https://item.rakuten.co.jp/book/18631868",
+      "product_url": "https://item.rakuten.co.jp/book/18631868",
+      "slug": "item-e847cb1df997",
+      "title": "消えない花火(初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(ストリーミング映像視…",
+      "item_name": "【同時購入特典】消えない花火(初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(ストリーミング映像視聴用シリアルコード＋「消えない花火」クリアフレークシール(ソロ絵柄8種セット)) [ timelesz ]",
+      "normalized_item_name": "消えない花火初回盤abluray初回盤bbluray通常盤セットストリーミング映像視聴用シリアルコードフレークシールソロ絵柄セット",
+      "seo_title": "消えない花火(初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(ストリーミング映像視…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:消えない花火初回盤abluray初回盤bblur",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1047/2100014991047.gif?_ex=320x320",
+      "item_price": 4158,
+      "review_average": 5.0,
+      "review_count": 2,
+      "ranking_rank": 12,
+      "shop_name": "楽天ブックス",
+      "published_at": "2026-07-29T07:00:16+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-e847cb1df997.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e847cb1df997.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18631868%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 126,
+    "total_articles": 127,
     "category_counts": {
       "beauty": 25,
       "food": 21,
-      "daily": 38,
+      "daily": 39,
       "baby": 13,
       "fashion": 3,
       "appliance": 14,
@@ -2922,6 +2945,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-28T07:03:44+09:00"
+    "last_updated_at": "2026-07-29T07:00:16+09:00"
   }
 }
