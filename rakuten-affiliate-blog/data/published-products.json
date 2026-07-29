@@ -2921,14 +2921,37 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-e847cb1df997.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-e847cb1df997.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072n.iax449dc.g00q072n.iax45cd7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18631868%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "",
+      "canonical_url": "https://item.rakuten.co.jp/shopworld/10141240",
+      "product_url": "https://item.rakuten.co.jp/shopworld/10141240",
+      "slug": "item-d05c5b71f906",
+      "title": "UKAboo オリジナル 折りたたみ プール 大型 1年保証 安全基準クリア 即納 組み立て 空気入れ不要…",
+      "item_name": "【公式】UKAboo オリジナル 折りたたみ プール 大型 1年保証 安全基準クリア 即納 組み立て 空気入れ不要 ビニールプール 即納 夏休み 収納 子供用 キッズ プール 大きい ファミリープール 家庭用プール 犬 3m 大型プール",
+      "normalized_item_name": "ukabooオリジナル折りたたみプール大型1年保証安全基準即納組み立て空気入れ不要ビニールプール即納夏休み収納子供用キッズプール大きいファミリープール家庭用プール犬3大型プール",
+      "seo_title": "UKAboo オリジナル 折りたたみ プール 大型 1年保証 安全基準クリア 即納 組み立て 空気入れ不要…の特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:ukabooオリジナル折りたたみプール大型年保証",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopworld/cabinet/05902777/13305732/imgrc0189931995.jpg?_ex=320x320",
+      "item_price": 4980,
+      "review_average": 4.4,
+      "review_count": 473,
+      "ranking_rank": 15,
+      "shop_name": "ショップワールド",
+      "published_at": "2026-07-30T07:00:17+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-d05c5b71f906.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-d05c5b71f906.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qe94n.iax441f0.g00qe94n.iax452a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F10141240%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 127,
+    "total_articles": 128,
     "category_counts": {
       "beauty": 25,
       "food": 21,
-      "daily": 39,
+      "daily": 40,
       "baby": 13,
       "fashion": 3,
       "appliance": 14,
@@ -2945,6 +2968,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-29T07:00:16+09:00"
+    "last_updated_at": "2026-07-30T07:00:17+09:00"
   }
 }
