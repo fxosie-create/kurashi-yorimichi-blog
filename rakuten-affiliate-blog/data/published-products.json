@@ -2967,14 +2967,37 @@
       "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-f67d2247ba1e.html",
       "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-f67d2247ba1e.jpg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tfohn.iax44d6d.g00tfohn.iax45131/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiyafoods%2Fbra00001%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
+    },
+    {
+      "item_code": "",
+      "canonical_url": "https://item.rakuten.co.jp/tanix-pro/pro-13-1-252",
+      "product_url": "https://item.rakuten.co.jp/tanix-pro/pro-13-1-252",
+      "slug": "item-932c7be903b7",
+      "title": "ブラザー工業 排気熱風レス＆フロンレススポットクラー PureDrive PD-7100F 首振り機能無し",
+      "item_name": "ブラザー工業　排気熱風レス＆フロンレススポットクラー　PureDrive　PD-7100F　首振り機能無し",
+      "normalized_item_name": "ブラザー工業排気熱風レスフロンレススポットクラーpuredrivepd7100f首振り機能無し",
+      "seo_title": "ブラザー工業 排気熱風レス＆フロンレススポットクラー PureDrive PD-7100F 首振り機能無しの特徴は？価格・レビュー・購入前ポイントまとめ",
+      "category": "daily",
+      "category_label": "日用品",
+      "theme_signature": "item:ブラザー工業排気熱風レスフロンレススポットクラー",
+      "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tanix-pro/cabinet/osusume/6994897.jpg?_ex=320x320",
+      "item_price": 148000,
+      "review_average": 0.0,
+      "review_count": 0,
+      "ranking_rank": 26,
+      "shop_name": "Tanix-PRO",
+      "published_at": "2026-08-01T07:00:20+09:00",
+      "public_url": "https://kurashi-yorimichi-blog.vercel.app/articles/item-932c7be903b7.html",
+      "og_image_url": "https://kurashi-yorimichi-blog.vercel.app/og-images/item-932c7be903b7.jpg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00twtwn.iax44bb6.g00twtwn.iax459e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftanix-pro%2Fpro-13-1-252%2F&rafcid=wsc_i_ra_2cc4a46a-4592-40e8-a87e-9e54d95660df"
     }
   ],
   "statistics": {
-    "total_articles": 129,
+    "total_articles": 130,
     "category_counts": {
       "beauty": 25,
       "food": 21,
-      "daily": 41,
+      "daily": 42,
       "baby": 13,
       "fashion": 3,
       "appliance": 14,
@@ -2991,6 +3014,6 @@
       "tools": "空調服・工具",
       "seasonal": "季節商品"
     },
-    "last_updated_at": "2026-07-31T07:00:17+09:00"
+    "last_updated_at": "2026-08-01T07:00:20+09:00"
   }
 }
